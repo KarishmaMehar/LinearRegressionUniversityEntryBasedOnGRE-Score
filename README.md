@@ -1,1 +1,1 @@
-# UniversityEntryBasedGREUsingLinearRegression
+# UniversityEntryBasedGREScoreUsingLinearRegression
